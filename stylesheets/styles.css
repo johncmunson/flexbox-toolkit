@@ -1,0 +1,10 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Lato', sans-serif; */
+}
+
+.splash .splash-header {
+    display: flex;
+    
+}
+
